@@ -1,0 +1,84 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f2f4f8;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.resume {
+  max-width: 900px;
+  background: #ffffff;
+  margin: 40px auto;
+  padding: 30px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  border-radius: 10px;
+}
+
+header {
+  text-align: center;
+  background: #0f3e61;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.2em;
+}
+
+header h2 {
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+.contact p {
+  margin: 5px 0;
+}
+
+.section {
+  margin-top: 30px;
+}
+
+.section h3 {
+  color: #0f3e61;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #0f3e61;
+  padding-bottom: 5px;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+}
+
+.skills-list li {
+  background: #e0ecf7;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+.job {
+  margin-bottom: 20px;
+}
+
+.job h4 {
+  margin: 0;
+  color: #1a1a1a;
+}
+
+.date {
+  font-size: 0.9em;
+  color: #555;
+}
+
+footer {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+}
