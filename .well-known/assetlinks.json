@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.directfn.mobile.nefaieqa",
+               "sha256_cert_fingerprints": ["8D:34:D3:0D:D6:05:49:E3:28:20:B5:0B:25:44:5F:37:0C:72:D6:59:E2:D7:3F:3F:31:23:B0:02:A8:6A:B2:83", "14:CC:E6:67:53:73:DD:39:29:C5:C3:95:68:C4:4E:38:42:BE:B4:28:01:BF:B9:76:6E:D7:D0:54:53:45:7E:B4"] }
+}]
